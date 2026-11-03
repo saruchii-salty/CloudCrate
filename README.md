@@ -168,3 +168,7 @@ git. A matching `.gitignore` ships with this repository.
 
 The script itself is released under the [MIT License](LICENSE). Downloaded audio is not covered by
 that license and belongs to its respective rights holders.
+
+## P.S.
+
+The whole project was pretty much vibecoded btw. I'm a skiddie as my bio says
