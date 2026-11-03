@@ -1,4 +1,4 @@
-# cloudcrate
+# CloudCrate
 
 > [!IMPORTANT]
 > ### Copyright / Legal Disclaimer
@@ -19,7 +19,7 @@
 >
 > If you like a track, support the artist: stream it on SoundCloud, buy it, or see them live.
 
-**cloudcrate** is a single-file Python script that downloads the tracks in a SoundCloud likes list
+**CloudCrate** is a single-file Python script that downloads the tracks in a SoundCloud likes list
 as fully tagged audio files: 320 kbps MP3 (or bit-perfect M4A) with title, artist, album, date,
 genre, source URL and embedded cover art. The name comes from crate digging, the collector's hunt
 for records. This one digs through your likes.
@@ -60,8 +60,8 @@ folder next to the script.
 ## Setup
 
 ```bash
-git clone https://github.com/saruchii-salty/cloudcrate.git
-cd cloudcrate
+git clone https://github.com/saruchii-salty/CloudCrate.git
+cd CloudCrate
 pip install -r requirements.txt
 ```
 
