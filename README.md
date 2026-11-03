@@ -1,5 +1,9 @@
 # CloudCrate
 
+<p align="center">
+  <img src="assets/logo.png" alt="CloudCrate" width="520">
+</p>
+
 > [!IMPORTANT]
 > ### Copyright / Legal Disclaimer
 >
